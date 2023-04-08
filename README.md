@@ -24,8 +24,9 @@
 
 - Please do ⭐ the repository, if it helped you in anyway.
 
-- A glimpse of the web app: Coming soon!!!
+- A glimpse of the web app:
 
+![GIF](resource/tweet.gif)
 
 ## Overview
 This is a Flask web app which analyzes whether the entered tweet is positive or negative.
