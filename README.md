@@ -70,9 +70,9 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 ## Future Scope
 
-- Use multiple Algorithms
-- Optimize Flask app.py
-- Front-End 
+- Improve accuracy through feature engineering
+- Experiment with deep learning techniques (e.g. RNNs or transformers)
+- Extend model to support multiple languages
 
 ## Credits
 - Dataset link : Click [here](https://www.kaggle.com/datasets/kazanova/sentiment140?select=training.1600000.processed.noemoticon.csv)
