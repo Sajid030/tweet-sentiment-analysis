@@ -26,7 +26,6 @@
 
 - A glimpse of the web app: Coming soon!!!
 
-![GIF](resource/carpredict.gif)
 
 ## Overview
 This is a Flask web app which analyzes whether the entered tweet is positive or negative.
