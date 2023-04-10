@@ -59,7 +59,7 @@ Click [here](https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-ho
 ├── app.py
 ├── cv-transform.pkl
 ├── requirements.txt
-├── sentiment-analysis.ipynb
+├── sentiment_analysis.ipynb
 ├── training.1600000.processed.noemoticon.csv
 ├── tweetmodel.pkl
 ```
