@@ -20,7 +20,7 @@
  - [Credits](#credits)
 
 ## Demo
-- Link: 
+- Link: https://sajid.engineer/tweetanalysis/
 
 - Please do ⭐ the repository, if it helped you in anyway.
 
