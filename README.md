@@ -54,6 +54,7 @@ Click [here](https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-ho
 ├── template
 │   ├── index.html
 ├── .gitattributes
+├── LICENSE.md
 ├── Procfile
 ├── README.md
 ├── app.py
